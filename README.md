@@ -9,6 +9,11 @@
   
    <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
 </table>
+<div>
+ <a href="https://github.com/vnduda">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julio25ed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio25ed&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jdesz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliodev25) 
