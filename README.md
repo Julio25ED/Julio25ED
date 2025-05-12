@@ -9,7 +9,7 @@
   
    <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
 
-   <img src = "https://icons8.com.br/icon/Pd2x9GWu9ovX/java"  width="120" alt="JAVA">
+   <img src = "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="120" alt="JAVA">
    
 </table>
 <div>
