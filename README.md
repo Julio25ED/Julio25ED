@@ -1,25 +1,47 @@
-<span style="color: green; font-size: 20px;">Hello World, I'm Julio, be very welcome</span>
+<h1 align="center">Hello, I'm Julio Eduardo 👋</h1>
 
-<table>
-   <a href="https://github.com/Julio25ED">
+<p align="center">
+  <em>Software Engineer Back-End | Estudante de Análise e Desenvolvimento de Sistemas </em>
+</p>
 
- <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  
-   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+---
 
-   <img src = "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="120" alt="JAVA">
-   
-</table>
-<div>
- <a href="https://github.com/"julio25ed>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julio25ed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio25ed&layout=compact&langs_count=7&theme=dark"/>
+### 🧠 About Me
+
+Sou desenvolvedor back-and, buscando atuar na área de desenvolvimento de software, e estudante de ADS (Análise e desenvolvimento de sistemas), com foco em desenvolvimento back-end usando **Java, Spring Boot, JPA, API´s RESTfull, PostgreSql, MongoDB e Node.js**, álem de experiência complementar em front-end com **HTML, CSS e JavaScript** e buscando sempre utilizar boas práticas para o desenvolvimento agregando as com as arquiteturas **MVC, REST, Microserviços** e utilizando princípio **SOLID**.
+Atualmente estou em busca de oportunidades de estágio ou projetos como Full Stack Developer — com foco especial em back-end.
+
+## 🛠️ Technologies
+
+<div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40"/>
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+    <img width="12" />
+   <img src = "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000"  height="40"/>
+    <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height="40"/>
+    <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="40"/>
+    <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" heitgh="40"/>
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="40" heitgh="40" />
+
 </div>
 
+   ## 💻 Tech Stack Highlights
+<p align="center">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Julio25ED&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio25ED&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+</p>
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jdesz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juliodev25) 
+<a href="https://www.linkedin.com/in/juliodev25" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https://instagram.com/jdesz_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:julio25.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
