@@ -22,7 +22,7 @@ Atualmente estou em busca de oportunidades de estágio ou projetos como Full Sta
     <img width="12" />
    <img src = "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000"  height="40"/>
     <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconscsharp/csharp-original.svg"  height="40"/>
     <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="40"/>
     <img width="12" />
